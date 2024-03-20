@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Oliveira+Damasceno;I'm+18+years+old;I+am+from+Araranguá,+SC;I+study+programming+course+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Estou estudando para me tornar um programador Full-stack
-- 🐱‍👤 Estudando Mysql e java-Script
+- 🔭 𝐼'𝑚 𝑠𝑡𝑢𝑑𝑦𝑖𝑛𝑔 𝑡𝑜 𝑏𝑒𝑐𝑜𝑚𝑒 𝑎 𝑓𝑢𝑙𝑙-𝑠𝑡𝑎𝑐𝑘 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑒𝑟
+- 🐱‍👤 𝑆𝑡𝑢𝑑𝑦𝑖𝑛𝑔 𝑀𝑦𝑠𝑞𝑙 𝑎𝑛𝑑 𝐽𝑎𝑣𝑎-𝑆𝑐𝑟𝑖𝑝𝑡
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scxxtt&show_icons=true&theme=gotham)
 
